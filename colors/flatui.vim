@@ -286,5 +286,3 @@ hi! link clojureDefine Type
 hi! link elixirDefine Special
 
 "}}}
-
-" vim: fdm=marker
